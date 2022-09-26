@@ -6,29 +6,43 @@ body
 {
     background-color: #a12e38;
 }
+#logo{
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
 #img-logo{
-    max-width: 15%;
-    max-height: 10%;
     margin: 1% 0px 0px 1%;
-}
-#span-logo{
-    font-weight: bold;
-    font-family: monospace;
-    margin-bottom: 50%;
-}
-main{
-    margin: auto;   
-}
-main p{
-    font-size: 5em;
-}
-#mainimg{
-    float: right;
-    margin-right: 15%;
-    width: 45%;
+    max-width: 60%;
+    max-height: 70%;
 
 }
-#leftcontent{
-    float: left;
-    width: 55%;
+main{
+    
 }
+
+p{
+    font-family: Geneva, Tahoma, sans-serif;
+    position: relative;
+    top:100px;
+    left: -67px;
+    text-align: center;
+}
+#animate{
+    font-size: 40px;
+    font-weight: bold;
+    color: #fff;
+    position: relative;
+    top: 108px;
+}
+
+#mainimg{
+    max-width: 90%;
+    max-height: 90%;
+    margin-left: 5% ;
+    position: relative;
+    top: -52px;
+    left: 11px;
+}
+
+
